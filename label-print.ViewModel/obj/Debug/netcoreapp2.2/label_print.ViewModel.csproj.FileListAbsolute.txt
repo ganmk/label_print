@@ -1,0 +1,12 @@
+F:\label-print\label-print.ViewModel\obj\Debug\netcoreapp2.2\label_print.ViewModel.csprojAssemblyReference.cache
+F:\label-print\label-print.ViewModel\obj\Debug\netcoreapp2.2\label_print.ViewModel.csproj.CoreCompileInputs.cache
+F:\label-print\label-print.ViewModel\obj\Debug\netcoreapp2.2\label_print.ViewModel.AssemblyInfoInputs.cache
+F:\label-print\label-print.ViewModel\obj\Debug\netcoreapp2.2\label_print.ViewModel.AssemblyInfo.cs
+F:\label-print\label-print.ViewModel\bin\Debug\netcoreapp2.2\label_print.ViewModel.deps.json
+F:\label-print\label-print.ViewModel\bin\Debug\netcoreapp2.2\label_print.ViewModel.dll
+F:\label-print\label-print.ViewModel\bin\Debug\netcoreapp2.2\label_print.ViewModel.pdb
+F:\label-print\label-print.ViewModel\bin\Debug\netcoreapp2.2\label_print.Model.dll
+F:\label-print\label-print.ViewModel\bin\Debug\netcoreapp2.2\label_print.Model.pdb
+F:\label-print\label-print.ViewModel\obj\Debug\netcoreapp2.2\label_print.ViewModel.csproj.CopyComplete
+F:\label-print\label-print.ViewModel\obj\Debug\netcoreapp2.2\label_print.ViewModel.dll
+F:\label-print\label-print.ViewModel\obj\Debug\netcoreapp2.2\label_print.ViewModel.pdb

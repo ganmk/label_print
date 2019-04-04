@@ -1,0 +1,9 @@
+F:\label-print\label-print.Model\bin\Debug\netcoreapp2.2\label_print.Model.deps.json
+F:\label-print\label-print.Model\bin\Debug\netcoreapp2.2\label_print.Model.dll
+F:\label-print\label-print.Model\bin\Debug\netcoreapp2.2\label_print.Model.pdb
+F:\label-print\label-print.Model\obj\Debug\netcoreapp2.2\label_print.Model.csproj.CoreCompileInputs.cache
+F:\label-print\label-print.Model\obj\Debug\netcoreapp2.2\label_print.Model.AssemblyInfoInputs.cache
+F:\label-print\label-print.Model\obj\Debug\netcoreapp2.2\label_print.Model.AssemblyInfo.cs
+F:\label-print\label-print.Model\obj\Debug\netcoreapp2.2\label_print.Model.dll
+F:\label-print\label-print.Model\obj\Debug\netcoreapp2.2\label_print.Model.pdb
+F:\label-print\label-print.Model\obj\Debug\netcoreapp2.2\label_print.Model.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+F:\label-print\label-print.DataAccess\obj\Debug\netcoreapp2.2\label_print.DataAccess.csprojAssemblyReference.cache
+F:\label-print\label-print.DataAccess\obj\Debug\netcoreapp2.2\label_print.DataAccess.csproj.CoreCompileInputs.cache
+F:\label-print\label-print.DataAccess\obj\Debug\netcoreapp2.2\label_print.DataAccess.AssemblyInfoInputs.cache
+F:\label-print\label-print.DataAccess\obj\Debug\netcoreapp2.2\label_print.DataAccess.AssemblyInfo.cs
+F:\label-print\label-print.DataAccess\bin\Debug\netcoreapp2.2\label_print.DataAccess.deps.json
+F:\label-print\label-print.DataAccess\bin\Debug\netcoreapp2.2\label_print.DataAccess.dll
+F:\label-print\label-print.DataAccess\bin\Debug\netcoreapp2.2\label_print.DataAccess.pdb
+F:\label-print\label-print.DataAccess\bin\Debug\netcoreapp2.2\label_print.Model.dll
+F:\label-print\label-print.DataAccess\bin\Debug\netcoreapp2.2\label_print.Model.pdb
+F:\label-print\label-print.DataAccess\obj\Debug\netcoreapp2.2\label_print.DataAccess.csproj.CopyComplete
+F:\label-print\label-print.DataAccess\obj\Debug\netcoreapp2.2\label_print.DataAccess.dll
+F:\label-print\label-print.DataAccess\obj\Debug\netcoreapp2.2\label_print.DataAccess.pdb
